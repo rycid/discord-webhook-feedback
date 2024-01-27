@@ -13,13 +13,16 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rycid/discord-webhook-feedback?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/rycid/discord-webhook-feedback?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/rycid/discord-webhook-feedback">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/rycid/discord-webhook-feedback?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/rycid/discord-webhook-feedback?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/rycid/discord-webhook-feedback?color=56BEB8" /> -->
+  <!-- <img alt="Github downloads" src="https://img.shields.io/github/downloads/rycid/discord-webhook-feedback/total?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/rycid/discord-webhook-feedback?color=56BEB8" /> -->
+  <!-- <img alt="Github downloads" src="https://img.shields.io/github/downloads/rycid/discord-webhook-feedback/latest/total?color=56BEB8" /> -->
+
+  <!-- <img alt="NPM Downloads" src="https://img.shields.io/npm/dt/discord-webhook-feedback"> -->
+
 </p>
 
 <!-- Status -->
