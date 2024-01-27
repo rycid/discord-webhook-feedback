@@ -2,13 +2,13 @@
   "name": "discord-webhook-feedback",
   "version": "1.0.0",
   "description": "Use this to send feedback to a discord webhook",
-  "main": "index.js",
+  "main": "dist/",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "enzyme-adapter-react-16": "^1.15.7",
     "react-test-renderer": "^16.14.0"
