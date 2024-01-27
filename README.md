@@ -44,7 +44,7 @@
 
 ## :dart: About ##
 
-Have a web app that you'd like to get feedback on? This component allows users to send feedback to a Discord (or other) webhook.
+Have a web app that you'd like to get feedback on? This component allows users to send feedback to a Discord (or any other) webhook.
 
 ## :sparkles: Features ##
 
