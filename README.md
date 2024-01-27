@@ -51,9 +51,9 @@ Have a web app that you'd like to get feedback on? This component allows users t
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Simple to set up and use;\
-:heavy_check_mark: Customizable;\
-:heavy_check_mark: Easy to integrate into any web app;
+:heavy_check_mark: Simple to set up and use\
+:heavy_check_mark: Customizable\
+:heavy_check_mark: Easy to integrate into any web app
 
 ## :rocket: Technologies ##
 
