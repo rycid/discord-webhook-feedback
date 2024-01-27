@@ -72,12 +72,12 @@ Before starting :checkered_flag:, you need to have [Node](https://nodejs.org/en/
 
 # Install Package
 ```bash
-$ npm i discord-webhook-feedback
+npm i discord-webhook-feedback
 ```
 OR
 
 ```bash
-$ yarn add discord-webhook-feedback
+yarn add discord-webhook-feedback
 ```
 # Use Package in your React App
 ```
