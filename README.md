@@ -60,7 +60,7 @@ Have a web app that you'd like to get feedback on? This component allows users t
 The following tools were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
+- [React](https://reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## :white_check_mark: Requirements ##
