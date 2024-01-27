@@ -27,11 +27,11 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<h4 align="center"> 
 	🚧  Discord Webhook Feedback 🚀 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
